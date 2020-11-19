@@ -1,4 +1,4 @@
-<?php require 'header.php'?>
+<?php include 'header.php'?>
 
 
 <!-- Basic HTML -->
