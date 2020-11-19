@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include 'includes/header.php'?>
 
 
 <!-- Basic HTML -->
@@ -30,4 +30,4 @@ echo '<h1> My age is :' .$age. '</h1>';
 
 <button type="button" class="btn btn-dark"> CLICK ME!</button>
 
-<?php require 'footer.php ' ?> 
+<?php require 'includes/footer.php ' ?> 

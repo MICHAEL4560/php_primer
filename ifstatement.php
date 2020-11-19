@@ -1,4 +1,4 @@
-<?php include 'header.php'?>
+<?php include 'includes/header.php'?>
 
 <body>
         <h1>if statements</h1>
@@ -22,4 +22,4 @@
     
 
    ?> 
-<?php require 'footer.php ' ?> 
+<?php require 'includes/footer.php ' ?> 
