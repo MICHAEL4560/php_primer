@@ -30,4 +30,4 @@ echo '<h1> My age is :' .$age. '</h1>';
 
 <button type="button" class="btn btn-dark"> CLICK ME!</button>
 
-<?php require 'includes/footer.php ' ?> 
+<?php require 'includes/footer.php' ?> 

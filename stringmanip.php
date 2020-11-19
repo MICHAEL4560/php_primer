@@ -25,4 +25,4 @@ echo 'Get a Substring:' .substr($name, 5, 10). '<br/>';
 
 ?>
     
-    <?php require 'includes/footer.php ' ?> 
+    <?php require 'includes/footer.php' ?> 
