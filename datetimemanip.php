@@ -1,4 +1,4 @@
-<?php include 'Snippets/header.php'?>
+<?php include 'header.php'?>
 
 <body>
     <h1>Date and Time Manipulation</h1>
@@ -14,4 +14,4 @@
          
 
     ?>
-<?php require 'snippets/footer.php ' ?> 
+<?php require 'footer.php ' ?> 

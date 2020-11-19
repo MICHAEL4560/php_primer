@@ -1,4 +1,4 @@
-<?php include 'Snippets/header.php'?>
+<?php include 'header.php'?>
 
 <body>
  
@@ -33,4 +33,4 @@
 ?>
 
     
-<?php require 'snippets/footer.php ' ?> 
+<?php require 'footer.php ' ?> 

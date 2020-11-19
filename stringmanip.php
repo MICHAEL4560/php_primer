@@ -1,4 +1,4 @@
-<?php include 'Snippets/header.php'?>
+<?php include 'header.php'?>
 
 <body>
 
@@ -25,4 +25,4 @@ echo 'Get a Substring:' .substr($name, 5, 10). '<br/>';
 
 ?>
     
-    <?php require 'snippets/footer.php ' ?> 
+    <?php require 'footer.php ' ?> 

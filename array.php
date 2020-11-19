@@ -1,4 +1,4 @@
-<?php include 'Snippets/header.php'?>
+<?php include 'header.php'?>
 
 <body>
 <h1> Arrays</h1>
@@ -21,5 +21,5 @@
    ?>
 
 
-<?php require 'snippets/footer.php ' ?> 
+<?php require 'footer.php ' ?> 
 
